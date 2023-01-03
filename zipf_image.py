@@ -4,7 +4,7 @@ from collections import Counter
 
 #/home/ivanush/Pictures/alena-aenami-horizon-1k.jpg
 #/home/ivanush/Pictures/Screenshot_20221225_02dkmsd5929.png
-#
+#/home/ivanush/Pictures/ef32583c76bd7a7a97593c443c964c64.jpg
 #koni.jpeg
 #juan.jpg
 
